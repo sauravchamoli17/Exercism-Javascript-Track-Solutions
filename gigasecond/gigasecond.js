@@ -1,0 +1,1 @@
+export const gigasecond = (moment) => new Date(moment.getTime() + Math.pow(10,12));
