@@ -11,4 +11,4 @@ const orbitalPeriods = {
 
 const secondsToYear = 1/31557600;
 
-export const age = (planetName, seconds) => parseFloat(((seconds * secondsToYear) / orbitalPeriods[planetName]).toFixed(2));
+export const age = (planetName, seconds) => Number(((seconds * secondsToYear) / orbitalPeriods[planetName]).toFixed(2));
