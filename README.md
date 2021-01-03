@@ -30,6 +30,8 @@
 
 ## [Pangram](https://github.com/sauravchamoli17/Exercism-Javascript-Track-Solutions/blob/main/pangram/pangram.js)
 
+## [Perfect Numbers](https://github.com/sauravchamoli17/Exercism-Javascript-Track-Solutions/blob/main/perfect-numbers/perfect-numbers.js)
+
 ## [Protein Translation](https://github.com/sauravchamoli17/Exercism-Javascript-Track-Solutions/blob/main/protein-translation/protein-translation.js)
 
 ## [Raindrops](https://github.com/sauravchamoli17/Exercism-Javascript-Track-Solutions/blob/main/raindrops/raindrops.js)
