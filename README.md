@@ -12,6 +12,8 @@
 
 ## [Darts](https://github.com/sauravchamoli17/Exercism-Javascript-Track-Solutions/blob/main/darts/darts.js)
 
+## [Difference Of Squares](https://github.com/sauravchamoli17/Exercism-Javascript-Track-Solutions/blob/main/difference-of-squares/difference-of-squares.js)
+
 ## [D-n-D Character](https://github.com/sauravchamoli17/Exercism-Javascript-Track-Solutions/blob/main/dnd-character/dnd-character.js)
 
 ## [ETL](https://github.com/sauravchamoli17/Exercism-Javascript-Track-Solutions/blob/main/etl/etl.js)
