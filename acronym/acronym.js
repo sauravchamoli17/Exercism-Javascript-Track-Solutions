@@ -1,0 +1,1 @@
+export const parse = (string) => string.replace(/[^a-z A-Z-]/g,'').match(/\b(\w)/g).join('').toUpperCase();
