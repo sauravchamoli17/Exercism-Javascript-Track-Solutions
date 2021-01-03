@@ -1,5 +1,7 @@
 # Exercism-Javascript-Track-Solutions
 
+## [Anagram](https://github.com/sauravchamoli17/Exercism-Javascript-Track-Solutions/blob/main/anagram/anagram.js)
+
 ## [Armstrong Numbers](https://github.com/sauravchamoli17/Exercism-Javascript-Track-Solutions/blob/main/armstrong-numbers/armstrong-numbers.js)
 
 ## [Clock](https://github.com/sauravchamoli17/Exercism-Javascript-Track-Solutions/blob/main/clock/clock.js)
