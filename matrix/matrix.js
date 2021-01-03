@@ -1,18 +1,17 @@
-//
-// This is only a SKELETON file for the 'Matrix' exercise. It's been provided as a
-// convenience to get you started writing code faster.
-//
+// throw new Error('Remove this statement and implement this function');
 
-export class Matrix {
-  constructor() {
-    throw new Error('Remove this statement and implement this function');
-  }
+// class Matrix {
+//   constructor(matrixString) {
+//     this.row = matrixString.split('\n');
+//     console.log(this.row);
+//   }  
+//   get rows() {
+    
+//   }
+  
+//   get columns() {
+    
+//   }
+// }
 
-  get rows() {
-    throw new Error('Remove this statement and implement this function');
-  }
-
-  get columns() {
-    throw new Error('Remove this statement and implement this function');
-  }
-}
+// new Matrix('1 2\n10 20').rows;
