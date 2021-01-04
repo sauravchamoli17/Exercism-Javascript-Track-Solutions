@@ -6,6 +6,8 @@
 
 ## [Armstrong Numbers](https://github.com/sauravchamoli17/Exercism-Javascript-Track-Solutions/blob/main/armstrong-numbers/armstrong-numbers.js)
 
+## [Bank Account](https://github.com/sauravchamoli17/Exercism-Javascript-Track-Solutions/blob/main/bank-account/bank-account.js)
+
 ## [Clock](https://github.com/sauravchamoli17/Exercism-Javascript-Track-Solutions/blob/main/clock/clock.js)
 
 ## [Collatz-Conjecture](https://github.com/sauravchamoli17/Exercism-Javascript-Track-Solutions/blob/main/collatz-conjecture/collatz-conjecture.js)
