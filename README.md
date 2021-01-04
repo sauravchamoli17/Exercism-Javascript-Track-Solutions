@@ -22,6 +22,8 @@
 
 ## [Hamming](https://github.com/sauravchamoli17/Exercism-Javascript-Track-Solutions/blob/main/hamming/hamming.js)
 
+## [High Score](https://github.com/sauravchamoli17/Exercism-Javascript-Track-Solutions/blob/main/high-scores/high-scores.js)
+
 ## [Hello-World](https://github.com/sauravchamoli17/Exercism-Javascript-Track-Solutions/blob/main/hello-world/hello-world.js)
 
 ## [Isogram](https://github.com/sauravchamoli17/Exercism-Javascript-Track-Solutions/blob/main/isogram/isogram.js)
