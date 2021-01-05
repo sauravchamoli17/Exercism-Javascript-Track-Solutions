@@ -58,6 +58,8 @@
 
 ## [Space-Age](https://github.com/sauravchamoli17/Exercism-Javascript-Track-Solutions/blob/main/space-age/space-age.js)
 
+## [Series](https://github.com/sauravchamoli17/Exercism-Javascript-Track-Solutions/blob/main/series/series.js)
+
 ## [Square Root](https://github.com/sauravchamoli17/Exercism-Javascript-Track-Solutions/blob/main/square-root/square-root.js)
 
 ## [Triangle](https://github.com/sauravchamoli17/Exercism-Javascript-Track-Solutions/blob/main/triangle/triangle.js)
